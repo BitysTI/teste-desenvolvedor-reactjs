@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Aparecida Andrea Pietra Porto",
+      "cpf": "802.134.198-07",
+      "rg": "41.964.849-5",
+      "data_nasc": "11/01/1946",
+      "sexo": "F",
+      "email": "aparecida-porto92@magicday.com.br",
+      "ativo": true,
+      "profileId": 1,
+      "idioma": "pt-BR"
+    },
+    {
+      "id": 2,
+      "nome": "Bruno José Pietro Figueiredo",
+      "cpf": "877.583.618-11",
+      "rg": "27.893.201-0",
+      "data_nasc": "07/01/1968",
+      "sexo": "Masculino",
+      "email": "brunojosefigueiredo@fluxioneventos.com.br",
+      "ativo": true,
+      "perfilId": 1,
+      "idioma": "pt-BR"
+    },
+    {
+      "id": 3,
+      "nome": "Eduardo Miguel Lima",
+      "cpf": "886.631.234-77",
+      "rg": "29.653.605-2",
+      "data_nasc": "10/01/1953",
+      "sexo": "M",
+      "email": "eduardo-lima70@construtorastaizabel.com.br",
+      "ativo": false,
+      "profileId": 1,
+      "idioma": "pt-BR"
+    },
+    {
+      "id": 4,
+      "nome": "Luna Emanuelly da Silva",
+      "cpf": "612.174.528-26",
+      "rg": "22.730.542-5",
+      "data_nasc": "08/01/1991",
+      "sexo": "F",
+      "email": "luna_dasilva@contabilidaderangel.com.br",
+      "ativo": true,
+      "profileId": 2,
+      "idioma": "es"
+    },
+    {
+      "id": 5,
+      "nome": "Anderson Bruno Antonio de Paula",
+      "cpf": "517.680.094-22",
+      "rg": "35.737.538-5",
+      "data_nasc": "22/01/1969",
+      "sexo": "M",
+      "email": "anderson_bruno_depaula@lynce.com.br",
+      "ativo": true,
+      "profileId": 1,
+      "idioma": "pt-BR"
+    },
+    {
+      "id": 6,
+      "nome": "Eduarda Cecília Novaes",
+      "idade": 37,
+      "cpf": "807.103.250-61",
+      "rg": "19.084.540-5",
+      "data_nasc": "06/02/1987",
+      "sexo": "F",
+      "email": "eduarda_novaes@lexos.com.br",
+      "ativo": true,
+      "profileId": 3,
+      "idioma": "en"
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "nome": "Admin",
+      "ativo": true
+    },
+    {
+      "id": 2,
+      "nome": "Vendedor",
+      "ativo": true
+    },
+    {
+      "id": 3,
+      "nome": "Gerente",
+      "ativo": false
+    }
+  ]
+}
