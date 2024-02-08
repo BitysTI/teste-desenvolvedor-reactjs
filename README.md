@@ -6,7 +6,7 @@ A Bitys desenvolve soluções tecnológicas personalizadas para empresas de todo
 
 # Descrição da vaga
 
-Buscamos um profissional que seja apaixonado por desenvolvimento, inovação e novas tecnologias, para integrar nosso time em projetos baseados em C# .net core, React.JS e React Native.
+Buscamos um profissional que seja apaixonado por desenvolvimento, inovação e novas tecnologias, para integrar nosso time em projetos baseados em C# .net core, React.JS e React Native. 
 
 ## Diferenciais
 
