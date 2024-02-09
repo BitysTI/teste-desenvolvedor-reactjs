@@ -40,7 +40,7 @@ export const InfoUsers = styled.div`
   border-bottom: solid 1px rgb(240, 240, 240);
   border-radius: 5px;
   padding: 10px;
-  gap: 6%;
+  gap: 8%;
   .pNome {
     font-size: 0.9rem;
   }
