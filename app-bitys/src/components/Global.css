@@ -1,0 +1,93 @@
+/* --------------------------------------------   NAVBAR    ----------------------------------------- */
+.navbar-header {
+    min-height: 5rem;
+}
+
+.Navbar-navbrand {
+    margin: 0 10%;
+}
+
+    .Navbar-navbrand span {
+        font-size: 12px;
+        margin: 0 20%;
+        color: gba(255, 255, 255, 0.8);
+    }
+
+.NavbarText {
+    margin-left: auto;
+    margin-right: 10%;
+}
+
+    .NavbarText button {
+        color: rgba(255, 255, 255, 0.8);
+    }
+
+    .NavbarText TbLogout2 {
+        font-size: 1.2rem;
+        color: rgba(255, 255, 255, 0.8);
+    }
+/* --------------------------------------------   SECTION    ----------------------------------------- */
+.div-section-app {
+    border: 1px solid #DCDCDC;
+    margin: 4rem auto;
+    width: 90%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.div-header {
+    border-radius: 10px 10px 0 0;
+    border-bottom: 1px solid #DCDCDC;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-color: #f0f0f0;
+    height: 4rem;
+}
+
+    .div-header h2 {
+        margin: auto 1.5rem;
+        font-size: 130%;
+    }
+
+    .div-header button {
+        margin: auto 2%;
+        height: 39px;
+        width: 100px;
+    }
+
+    .div-header FaPlus {
+        margin: 0 5px;
+    }
+
+.div-table Table {
+    width: 98%;
+    margin: auto;
+}
+/* --------------------------------------------   FOOTER    ----------------------------------------- */
+.footer {
+    position: absolute;
+    bottom: -999;
+    height: 1.8rem;
+    width: 100%;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-pa-1 {
+    float: left;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 9px 3.5rem;
+}
+
+.footer-pa-2 {
+    float: right;
+    font-size: 12px;
+    color: #808080;
+    margin: 7px 3.5rem;
+}
